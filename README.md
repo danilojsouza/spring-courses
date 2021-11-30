@@ -18,7 +18,7 @@
     <td>H2 DB</td>
   </tr>
   <tr>
-    <td>2.5.5</td>
+    <td>2.6.1</td>
     <td>12</td>
     <td>1.4</td>
   </tr>
